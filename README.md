@@ -20,13 +20,13 @@ If you use your Dyson Link account to connect to the integration, you may or may
 
 The minimum supported Home Assistant version is 2021.12.0.
 
-You can install using HACS. Adding https://github.com/shenxn/ha-dyson as custom repository and then install Dyson Local. If you want cloud functionalities as well, add https://github.com/shenxn/ha-dyson-cloud and install Dyson Cloud.
+You can install using HACS. Adding https://github.com/nf-homeauto/ha-dyson as custom repository and then install Dyson Local. If you want cloud functionalities as well, add https://github.com/nf-homeauto/ha-dyson-cloud and install Dyson Cloud.
 
 You can also install manually
 
 ## Local and Cloud
 
-There are two integrations, Dyson Local and Dyson Cloud. Due to the limitation of HACS, they are split into two repositories. This repository hosts Dyson Local, and https://github.com/shenxn/ha-dyson-cloud hosts Dyson Cloud.
+There are two integrations, Dyson Local and Dyson Cloud. Due to the limitation of HACS, they are split into two repositories. This repository hosts Dyson Local, and https://github.com/nf-homeauto/ha-dyson-cloud hosts Dyson Cloud.
 
 ### Dyson Local
 
